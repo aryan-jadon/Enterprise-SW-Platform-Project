@@ -33,7 +33,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'rest_framework',  # rest framework app
+    'rest_framework',  # django rest framework app
+    'api_services',  # app
 
 ]
 
@@ -78,8 +79,8 @@ if DEBUG:
         'default': {
             'ENGINE': 'django.db.backends.postgresql',
             'USER': 'postgres',
-            'NAME': '',
-            'PASSWORD': '',
+            'NAME': 'enterprise_application_testing_database',  # add your local user name here
+            'PASSWORD': 'aryan',  # add your local db password here
             'HOST': 'localhost',
             'PORT': '5432'
         }
@@ -146,11 +147,13 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 # REST FRAMEWORK SETTINGS
+'''
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
     ]
 }
+'''
 
 # AWS S3 BUCKETS SETTINGS
 X_FRAME_OPTIONS = 'SAMEORIGIN'
