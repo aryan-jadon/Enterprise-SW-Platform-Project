@@ -12,6 +12,9 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 
 import os
 from decouple import config
+import dj_database_url
+import django_heroku
+import yaml
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -69,16 +72,40 @@ WSGI_APPLICATION = 'Enterprise.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'enterprise_application_testing',
-        'USER': 'postgres',
-        'PASSWORD': 'postgres',
-        'HOST': 'localhost',
-        'PORT': '5433'
+if DEBUG:
+    print("Using Local Postgresql Database")
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.postgresql',
+            'USER': 'postgres',
+            'NAME': '',
+            'PASSWORD': '',
+            'HOST': 'localhost',
+            'PORT': '5432'
+        }
     }
-}
+else:
+    print("Using Digital Ocean Postgresql Database")
+    with open("config.YAML", "r") as stream:
+        try:
+            config_file = yaml.safe_load(stream)
+        except yaml.YAMLError as exc:
+            print(exc)
+
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.postgresql',
+            'NAME': config_file['postgres_database']['database'],
+            'USER': config_file['postgres_database']['username'],
+            'PASSWORD': config_file['postgres_database']['password'],
+            'HOST': config_file['postgres_database']['host'],
+            'PORT': config_file['postgres_database']['port']
+        }
+    }
+    # database connection check in seconds
+    db_from_env = dj_database_url.config(conn_max_age=1000)
+    DATABASES['default'].update(db_from_env)
+
 # Password validation
 # https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators
 
@@ -124,3 +151,23 @@ REST_FRAMEWORK = {
         'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
     ]
 }
+
+# AWS S3 BUCKETS SETTINGS
+X_FRAME_OPTIONS = 'SAMEORIGIN'
+
+'''
+AWS_ACCESS_KEY_ID = config('AWS_ACCESS_KEY_ID')
+AWS_SECRET_ACCESS_KEY = config('AWS_SECRET_ACCESS_KEY')
+AWS_STORAGE_BUCKET_NAME = config('AWS_STORAGE_BUCKET_NAME')
+
+AWS_S3_FILE_OVERWRITE = False
+AWS_DEFAULT_ACL = None
+
+DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
+
+AWS_S3_REGION_NAME = 'us-east-2'
+AWS_S3_SIGNATURE_VERSION = 's3v4'
+AWS_S3_ADDRESSING_STYLE = "virtual"
+'''
+
+django_heroku.settings(locals())
