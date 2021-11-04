@@ -1,1 +1,119 @@
-<p>employee-page works!</p>
+<div class="container">
+    <div class="row">
+        <div class="col-md-10" *ngIf="!openProjectVal">
+            <div class="row space-16">&nbsp;</div>
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="thumbnail">
+                        <div class="caption text-center" (click)="openProjects()">
+                            <div class="position-relative">
+                                <img src="https://img.icons8.com/nolan/64/project.png"
+                                    style="width:72px;height:72px;" />
+                            </div>
+                            <h4 id="thumbnail-label"><a>List of Projects</a></h4>
+                            <div class="thumbnail-description smaller">All the projects which you work are listed.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+        </div>
+        <div class="col-md-10" *ngIf="openProjectVal">
+            <div class="row space-16">&nbsp;</div>
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="thumbnail">
+                        <div class="caption text-center" (click)="openProjects()">
+                            <div class="position-relative">
+                                <img src="https://img.icons8.com/nolan/64/project.png"
+                                    style="width:72px;height:72px;" />
+                            </div>
+                            <h4 id="thumbnail-label"><a>List of Projects</a></h4>
+                            <div class="thumbnail-description smaller">
+                                <ul style="text-align: left;">
+                                    <li>Omega Product Management</li>
+                                    <li>Omega Supply Management</li>
+                                    <li>Omega Healthcare Management</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-10" *ngIf="!openTrainingsVal">
+            <div class="row space-16">&nbsp;</div>
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="thumbnail">
+                        <div class="caption text-center"
+                            (click)="openTrainings()">
+                            <div class="position-relative">
+                                <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/58/000000/external-training-lean-thinking-sbts2018-flat-sbts2018.png"
+                                    style="width:72px;height:72px;" />
+                            </div>
+                            <h4 id="thumbnail-label"><a>Training Portal</a></h4>
+                            <div class="thumbnail-description smaller">A portal to access all the trainings posted.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+        </div>
+        <div class="col-md-10" *ngIf="openTrainingsVal">
+            <div class="row space-16">&nbsp;</div>
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="thumbnail">
+                        <div class="caption text-center">
+                            <div class="position-relative">
+                                <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/58/000000/external-training-lean-thinking-sbts2018-flat-sbts2018.png"
+                                    style="width:72px;height:72px;" />
+                            </div>
+                            <h4 id="thumbnail-label"><a>Training Portal</a></h4>
+                            <div class="thumbnail-description smaller"><ul style="text-align: left;">
+                                <li>Salesforce Trailhead &nbsp;
+                                </li>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+                                      <span class="sr-only">40% Complete (success)</span>
+                                    </div>
+                                  </div>
+                                <li>Twitter API learning</li>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+                                      <span class="sr-only">90% Complete (success)</span>
+                                    </div>
+                                  </div>
+                            </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+        </div>
+    </div>
+
+</div>
+<style scoped>
+    .thumbnail {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+        transition: 0.3s;
+        min-width: 40%;
+        border-radius: 5px;
+    }
+
+    .thumbnail-description {
+        min-height: 40px;
+    }
+
+    .thumbnail:hover {
+        cursor: pointer;
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 1);
+    }
+</style>
