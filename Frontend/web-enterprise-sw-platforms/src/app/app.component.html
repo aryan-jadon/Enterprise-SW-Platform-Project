@@ -1,5 +1,5 @@
 <div>
-    <nav class="navbar navbar-inverse">
+    <!-- <nav class="navbar navbar-inverse">
         <div class="container-fluid">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -31,7 +31,34 @@
                 </ul>
             </div>
         </div>
-    </nav>
+    </nav> -->
+    <div class="navbar-custom topnav-navbar topnav-navbar-dark">
+        <div class="container-fluid" style="padding-right: 6%;">
+            <!-- LOGO -->
+            <a>
+                <span class="topnav-logo">
+                    <img src="../assets/Omega-logos_white.png" alt="" height="80">
+                </span>
+            </a>
+            <ul class="list-unstyled topbar-menu float-end" style="margin-top: 30px;">
+                <li class="dropdown notification-list">
+                    <div class="dropdown notification-list">
+                        <a href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
+                            aria-expanded="false" style="font-size: 15px;">
+                            <span class="glyphicon glyphicon-log-in"></span>&nbsp;&nbsp;Login
+                        </a>
+
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="font-size: 15px;">
+                            <a class="dropdown-item" routerLink="/login/emp">As Employee</a><br>
+                            <a class="dropdown-item" routerLink="/login/manager">As Manager</a><br>
+                            <a class="dropdown-item" routerLink="/login/admin">As Admin</a><br>
+                        </div>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+    </div>
 
     <router-outlet></router-outlet>
 </div>
