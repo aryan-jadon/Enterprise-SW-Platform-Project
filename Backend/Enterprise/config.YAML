@@ -1,4 +1,6 @@
-SENDGRID_API: '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'
+SECRET_KEY: '-ryf(#eipyjbuhrgz1*tygr_*h-g(7to65)$-)#%^kft$9zpi3'
+DEBUG: 'FALSE'
+ALLOWED_HOSTS: '*'
 postgres_database:
   username: 'doadmin'
   password: 'Fk45jqgk7Vh9NPkE'
@@ -6,4 +8,14 @@ postgres_database:
   port: 25060
   database: 'defaultdb'
   sslmode: 'require'
-
+AWS:
+  AWS_S3_BUCKET_ACCESS_ID: 'AKIAZZPRVAIVHPHIJJ6M'
+  AWS_S3_BUCKET_ACCESS_KEY: '0+zEZfDjaTGD/znnxdaLYEbhP3koVR62r7fchXC+'
+  AWS_STORAGE_BUCKET_NAME: 'omega-employees-documents'
+AUTHENTICATION:
+  AUTH0_CLIENT_ID: 'KFBeJhQcIrTMZtDj8F3etRf2uK0ikfPs'
+  AUTH0_DOMAIN: 'dev-kmut4dx9.us.auth0.com'
+  AUTH0_CLIENT_SECRET: 'AKupQEh6gXG8wsePjM66nGF4CG2ISNwhZkNySQe605BsgUDRqHtmBAqYAcDmDxcb'
+OMEGASUPERUSER:
+  username: 'omega_admin'
+  password: 'omega_admin'
