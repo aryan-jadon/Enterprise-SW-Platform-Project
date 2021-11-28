@@ -8,7 +8,6 @@ import { EmployeePageComponent } from './employee-page/employee-page.component';
 import { ManagerPageComponent } from './manager-page/manager-page.component';
 import { AdminPageComponent } from './admin-page/admin-page.component';
 import { AboutPageComponent } from './about-page/about-page.component';
-import { HomePageComponent } from './home-page/home-page.component';
 import { OmegaPageComponent } from './omega-page/omega-page.component';
 import { ReactiveFormsModule } from '@angular/forms';
 
@@ -20,7 +19,6 @@ import { ReactiveFormsModule } from '@angular/forms';
     ManagerPageComponent,
     AdminPageComponent,
     AboutPageComponent,
-    HomePageComponent,
     OmegaPageComponent
   ],
   imports: [

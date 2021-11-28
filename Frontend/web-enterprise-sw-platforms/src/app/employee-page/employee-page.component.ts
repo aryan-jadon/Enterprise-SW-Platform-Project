@@ -11,14 +11,16 @@ export class EmployeePageComponent implements OnInit {
 
   ngOnInit(): void {
   }
-  openProjectVal: boolean=false;
+  openProjectVal: boolean=true;
   openTrainingsVal: boolean=false;
   training: String='';
   openProjects () {
-    this.openProjectVal = !this.openProjectVal;
+    this.openProjectVal = true
+    this.openTrainingsVal = false
   }
   openTrainings () {
-    this.openTrainingsVal = !this.openTrainingsVal
+    this.openTrainingsVal = true
+    this.openProjectVal = false
   }
   trainingValue (training:any) {
     console.log(training)
