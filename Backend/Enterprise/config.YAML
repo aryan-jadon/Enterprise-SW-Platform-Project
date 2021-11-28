@@ -1,0 +1,9 @@
+SENDGRID_API: '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'
+postgres_database:
+  username: 'doadmin'
+  password: 'Fk45jqgk7Vh9NPkE'
+  host: 'db-postgresql-sfo2-56824-do-user-10176564-0.b.db.ondigitalocean.com'
+  port: 25060
+  database: 'defaultdb'
+  sslmode: 'require'
+

@@ -1,0 +1,505 @@
+2021-11-20 02:33:33,100 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 02:33:33,100 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 02:33:33,100 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 02:33:33,100 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 02:33:33,191 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 02:33:35,122 django.request WARNING  Not Found: /
+2021-11-20 02:33:39,285 django.request WARNING  Not Found: /
+2021-11-20 02:37:03,908 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-20 02:37:03,918 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-20 02:37:04,813 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 02:37:04,814 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 02:37:04,814 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 02:37:04,814 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 02:37:04,982 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 02:38:11,919 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-20 02:38:11,920 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-20 02:38:12,625 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 02:38:12,625 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 02:38:12,625 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 02:38:12,625 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 02:38:12,790 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 02:38:15,279 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-20 02:38:15,280 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-20 02:38:15,784 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 02:38:15,784 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 02:38:15,784 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 02:38:15,785 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 02:38:15,878 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 02:38:20,278 django.request WARNING  Not Found: /
+2021-11-20 02:38:29,284 MARKDOWN     DEBUG    Successfully imported extension module "markdown.extensions.toc".
+2021-11-20 02:38:29,284 MARKDOWN     DEBUG    Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2021-11-20 02:38:29,301 django.request WARNING  Method Not Allowed: /api/
+2021-11-20 02:39:18,566 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-20 02:39:18,566 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-20 02:39:19,128 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 02:39:19,128 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 02:39:19,129 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 02:39:19,129 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 02:39:19,266 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 02:39:21,921 django.request WARNING  Not Found: /
+2021-11-20 02:39:38,413 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-20 02:39:38,413 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-20 02:39:39,029 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 02:39:39,051 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 02:39:39,051 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 02:39:39,051 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 02:39:39,228 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 02:39:41,668 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-20 02:39:41,669 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-20 02:39:42,067 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 02:39:42,067 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 02:39:42,067 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 02:39:42,067 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 02:39:42,193 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 02:44:20,470 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-20 02:44:20,472 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-20 02:44:21,218 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 02:44:21,218 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 02:44:21,218 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 02:44:21,218 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 02:44:21,382 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 02:44:33,237 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-20 02:44:33,238 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-20 02:44:33,747 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 02:44:33,748 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 02:44:33,748 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 02:44:33,748 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 02:44:33,867 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 02:44:53,973 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-20 02:44:53,973 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-20 02:44:54,516 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 02:44:54,516 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 02:44:54,516 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 02:44:54,516 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 02:44:54,601 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 02:45:00,061 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-20 02:45:00,062 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-20 02:45:00,524 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 02:45:00,524 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 02:45:00,525 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 02:45:00,525 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 02:45:00,643 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 03:00:47,365 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-20 03:00:47,368 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-20 03:00:48,196 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 03:00:48,196 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 03:00:48,196 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 03:00:48,196 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 03:00:48,393 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 22:49:54,367 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-20 22:49:54,395 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-20 22:49:55,100 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 22:49:55,100 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 22:49:55,100 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 22:49:55,100 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 22:49:55,256 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 22:49:56,788 django.request WARNING  Not Found: /
+2021-11-20 22:50:03,287 botocore.hooks DEBUG    Changing event name from creating-client-class.iot-data to creating-client-class.iot-data-plane
+2021-11-20 22:50:03,288 botocore.hooks DEBUG    Changing event name from before-call.apigateway to before-call.api-gateway
+2021-11-20 22:50:03,289 botocore.hooks DEBUG    Changing event name from request-created.machinelearning.Predict to request-created.machine-learning.Predict
+2021-11-20 22:50:03,290 botocore.hooks DEBUG    Changing event name from before-parameter-build.autoscaling.CreateLaunchConfiguration to before-parameter-build.auto-scaling.CreateLaunchConfiguration
+2021-11-20 22:50:03,290 botocore.hooks DEBUG    Changing event name from before-parameter-build.route53 to before-parameter-build.route-53
+2021-11-20 22:50:03,291 botocore.hooks DEBUG    Changing event name from request-created.cloudsearchdomain.Search to request-created.cloudsearch-domain.Search
+2021-11-20 22:50:03,292 botocore.hooks DEBUG    Changing event name from docs.*.autoscaling.CreateLaunchConfiguration.complete-section to docs.*.auto-scaling.CreateLaunchConfiguration.complete-section
+2021-11-20 22:50:03,294 botocore.hooks DEBUG    Changing event name from before-parameter-build.logs.CreateExportTask to before-parameter-build.cloudwatch-logs.CreateExportTask
+2021-11-20 22:50:03,294 botocore.hooks DEBUG    Changing event name from docs.*.logs.CreateExportTask.complete-section to docs.*.cloudwatch-logs.CreateExportTask.complete-section
+2021-11-20 22:50:03,294 botocore.hooks DEBUG    Changing event name from before-parameter-build.cloudsearchdomain.Search to before-parameter-build.cloudsearch-domain.Search
+2021-11-20 22:50:03,294 botocore.hooks DEBUG    Changing event name from docs.*.cloudsearchdomain.Search.complete-section to docs.*.cloudsearch-domain.Search.complete-section
+2021-11-20 22:50:03,333 botocore.loaders DEBUG    Loading JSON file: /opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/boto3/data/s3/2006-03-01/resources-1.json
+2021-11-20 22:50:03,335 botocore.loaders DEBUG    Loading JSON file: /opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/botocore/data/endpoints.json
+2021-11-20 22:50:03,343 botocore.hooks DEBUG    Event choose-service-name: calling handler <function handle_service_name_alias at 0x7f9c881fbaf0>
+2021-11-20 22:50:03,361 botocore.loaders DEBUG    Loading JSON file: /opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/botocore/data/s3/2006-03-01/service-2.json
+2021-11-20 22:50:03,372 botocore.hooks DEBUG    Event creating-client-class.s3: calling handler <function add_generate_presigned_post at 0x7f9c881aab80>
+2021-11-20 22:50:03,372 botocore.hooks DEBUG    Event creating-client-class.s3: calling handler <function lazy_call.<locals>._handler at 0x7f9c882d3dc0>
+2021-11-20 22:50:03,401 botocore.hooks DEBUG    Event creating-client-class.s3: calling handler <function add_generate_presigned_url at 0x7f9c881aa940>
+2021-11-20 22:50:03,420 botocore.endpoint DEBUG    Setting s3 timeout as (60, 60)
+2021-11-20 22:50:03,431 botocore.loaders DEBUG    Loading JSON file: /opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/botocore/data/_retry.json
+2021-11-20 22:50:03,431 botocore.client DEBUG    Registering retry handlers for service: s3
+2021-11-20 22:50:03,432 boto3.resources.factory DEBUG    Loading s3:s3
+2021-11-20 22:50:03,433 boto3.resources.factory DEBUG    Loading s3:Bucket
+2021-11-20 22:50:03,434 boto3.resources.model DEBUG    Renaming Bucket attribute name
+2021-11-20 22:50:03,434 botocore.hooks DEBUG    Event creating-resource-class.s3.Bucket: calling handler <function lazy_call.<locals>._handler at 0x7f9c88349940>
+2021-11-20 22:50:03,435 botocore.hooks DEBUG    Event before-parameter-build.s3.GetObject: calling handler <function sse_md5 at 0x7f9c8821d430>
+2021-11-20 22:50:03,435 botocore.hooks DEBUG    Event before-parameter-build.s3.GetObject: calling handler <function validate_bucket_name at 0x7f9c8821d3a0>
+2021-11-20 22:50:03,435 botocore.hooks DEBUG    Event before-parameter-build.s3.GetObject: calling handler <bound method S3RegionRedirector.redirect_from_cache of <botocore.utils.S3RegionRedirector object at 0x7f9c88beebb0>>
+2021-11-20 22:50:03,435 botocore.hooks DEBUG    Event before-parameter-build.s3.GetObject: calling handler <bound method S3ArnParamHandler.handle_arn of <botocore.utils.S3ArnParamHandler object at 0x7f9c88beebe0>>
+2021-11-20 22:50:03,435 botocore.hooks DEBUG    Event before-parameter-build.s3.GetObject: calling handler <function generate_idempotent_uuid at 0x7f9c8821d1f0>
+2021-11-20 22:50:03,435 botocore.hooks DEBUG    Event choose-signer.s3.GetObject: calling handler <bound method S3EndpointSetter.set_signer of <botocore.utils.S3EndpointSetter object at 0x7f9c88beeca0>>
+2021-11-20 22:50:03,435 botocore.hooks DEBUG    Event choose-signer.s3.GetObject: calling handler <function set_operation_specific_signer at 0x7f9c8821d0d0>
+2021-11-20 22:50:03,436 botocore.hooks DEBUG    Event before-sign.s3.GetObject: calling handler <bound method S3EndpointSetter.set_endpoint of <botocore.utils.S3EndpointSetter object at 0x7f9c88beeca0>>
+2021-11-20 22:50:03,436 botocore.utils DEBUG    Using S3 virtual host style addressing.
+2021-11-20 22:50:03,436 botocore.utils DEBUG    Checking for DNS compatible bucket for: https://s3.us-east-2.amazonaws.com/omega-employees-documents/Architecture.drawio.svg
+2021-11-20 22:50:03,436 botocore.utils DEBUG    URI updated to: https://omega-employees-documents.s3.us-east-2.amazonaws.com/Architecture.drawio.svg
+2021-11-20 22:50:03,436 botocore.auth DEBUG    Calculating signature using v4 auth.
+2021-11-20 22:50:03,436 botocore.auth DEBUG    CanonicalRequest:
+GET
+/Architecture.drawio.svg
+X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZZPRVAIVHPHIJJ6M%2F20211120%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20211120T225003Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host
+host:omega-employees-documents.s3.us-east-2.amazonaws.com
+
+host
+UNSIGNED-PAYLOAD
+2021-11-20 22:50:03,436 botocore.auth DEBUG    StringToSign:
+AWS4-HMAC-SHA256
+20211120T225003Z
+20211120/us-east-2/s3/aws4_request
+4a3447211f6a8a1039af9b7ca725413a8c328b35ac0931a01af3d64917841a12
+2021-11-20 22:50:03,436 botocore.auth DEBUG    Signature:
+bcf47f759d2f629ba0a12132deca61ab3e722be01a524e06cc57cfb8074c198b
+2021-11-20 22:50:03,437 botocore.hooks DEBUG    Event before-parameter-build.s3.GetObject: calling handler <function sse_md5 at 0x7f9c8821d430>
+2021-11-20 22:50:03,437 botocore.hooks DEBUG    Event before-parameter-build.s3.GetObject: calling handler <function validate_bucket_name at 0x7f9c8821d3a0>
+2021-11-20 22:50:03,437 botocore.hooks DEBUG    Event before-parameter-build.s3.GetObject: calling handler <bound method S3RegionRedirector.redirect_from_cache of <botocore.utils.S3RegionRedirector object at 0x7f9c88beebb0>>
+2021-11-20 22:50:03,437 botocore.hooks DEBUG    Event before-parameter-build.s3.GetObject: calling handler <bound method S3ArnParamHandler.handle_arn of <botocore.utils.S3ArnParamHandler object at 0x7f9c88beebe0>>
+2021-11-20 22:50:03,438 botocore.hooks DEBUG    Event before-parameter-build.s3.GetObject: calling handler <function generate_idempotent_uuid at 0x7f9c8821d1f0>
+2021-11-20 22:50:03,438 botocore.hooks DEBUG    Event choose-signer.s3.GetObject: calling handler <bound method S3EndpointSetter.set_signer of <botocore.utils.S3EndpointSetter object at 0x7f9c88beeca0>>
+2021-11-20 22:50:03,438 botocore.hooks DEBUG    Event choose-signer.s3.GetObject: calling handler <function set_operation_specific_signer at 0x7f9c8821d0d0>
+2021-11-20 22:50:03,438 botocore.hooks DEBUG    Event before-sign.s3.GetObject: calling handler <bound method S3EndpointSetter.set_endpoint of <botocore.utils.S3EndpointSetter object at 0x7f9c88beeca0>>
+2021-11-20 22:50:03,438 botocore.utils DEBUG    Checking for DNS compatible bucket for: https://s3.us-east-2.amazonaws.com/omega-employees-documents/Architecture.png
+2021-11-20 22:50:03,438 botocore.utils DEBUG    URI updated to: https://omega-employees-documents.s3.us-east-2.amazonaws.com/Architecture.png
+2021-11-20 22:50:03,440 botocore.auth DEBUG    Calculating signature using v4 auth.
+2021-11-20 22:50:03,440 botocore.auth DEBUG    CanonicalRequest:
+GET
+/Architecture.png
+X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZZPRVAIVHPHIJJ6M%2F20211120%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20211120T225003Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host
+host:omega-employees-documents.s3.us-east-2.amazonaws.com
+
+host
+UNSIGNED-PAYLOAD
+2021-11-20 22:50:03,440 botocore.auth DEBUG    StringToSign:
+AWS4-HMAC-SHA256
+20211120T225003Z
+20211120/us-east-2/s3/aws4_request
+3c5aeae8b12ba8a7376068201ee1065c68042281811d6fd46fba0a74021f6932
+2021-11-20 22:50:03,440 botocore.auth DEBUG    Signature:
+1988411ee4b7da0b7193865d8d33011050d56568aa410eda1e35f038cde4a458
+2021-11-20 22:50:03,450 MARKDOWN     DEBUG    Successfully imported extension module "markdown.extensions.toc".
+2021-11-20 22:50:03,450 MARKDOWN     DEBUG    Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2021-11-20 22:50:07,658 MARKDOWN     DEBUG    Successfully imported extension module "markdown.extensions.toc".
+2021-11-20 22:50:07,658 MARKDOWN     DEBUG    Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2021-11-20 22:50:07,673 django.request WARNING  Not Found: /documents/debug/
+2021-11-20 22:51:16,337 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-20 22:51:16,337 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-20 22:51:16,898 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-20 22:51:16,898 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-20 22:51:16,898 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-20 22:51:16,898 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-20 22:51:17,035 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 22:51:20,296 django.request ERROR    Internal Server Error: /api/debug/
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py", line 27, in get_log_file
+    log_dict[index] = line
+IndexError: list assignment index out of range
+2021-11-21 00:48:29,866 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 00:48:29,867 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 00:48:29,867 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 00:48:29,867 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 08:48:30,238 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 00:57:58,209 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 00:57:58,211 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 00:57:58,211 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 00:57:58,211 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 08:57:58,817 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 00:58:04,813 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 00:58:04,813 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 00:58:04,813 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 00:58:04,813 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 08:58:05,066 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 00:58:13,705 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 00:58:13,705 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 00:58:13,705 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 00:58:13,705 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 08:58:14,138 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 08:58:14,139 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 08:58:14,139 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 08:58:14,139 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 08:58:14,289 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 00:58:21,231 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 00:58:21,231 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 00:58:21,231 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 00:58:21,231 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 08:58:21,647 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 08:58:21,647 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 08:58:21,648 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 08:58:21,648 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 08:58:21,819 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 08:58:24,877 django.request ERROR    Internal Server Error: /login/auth0
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/backends/utils.py", line 50, in get_backend
+    return BACKENDSCACHE[name]
+KeyError: 'auth0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_django/utils.py", line 41, in wrapper
+    request.backend = load_backend(request.social_strategy,
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_django/utils.py", line 24, in load_backend
+    return strategy.get_backend(name, redirect_uri=redirect_uri)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/strategy.py", line 180, in get_backend
+    Backend = self.get_backend_class(name)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/strategy.py", line 176, in get_backend_class
+    return get_backend(self.get_backends(), name)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/backends/utils.py", line 53, in get_backend
+    load_backends(backends, force_load=True)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/backends/utils.py", line 35, in load_backends
+    backend = module_member(auth_backend)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/utils.py", line 59, in module_member
+    module = import_module(mod)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/utils.py", line 53, in import_module
+    __import__(name)
+ModuleNotFoundError: No module named 'Enterprise.authentication'
+2021-11-21 09:00:50,594 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/Enterprise/settings.py changed, reloading.
+2021-11-21 09:00:50,608 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 09:00:51,425 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 01:01:25,520 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 01:01:25,520 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 01:01:25,521 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 01:01:25,521 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 01:01:25,521 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:01:26,087 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 01:01:30,773 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 01:01:30,774 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 01:01:30,774 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 01:01:30,774 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 01:01:30,774 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:01:31,086 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 01:01:34,414 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 01:01:34,414 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 01:01:34,414 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 01:01:34,414 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 01:01:34,414 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:01:34,860 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 09:01:34,860 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 09:01:34,860 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 09:01:34,860 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 09:01:34,860 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:01:35,009 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 09:01:37,401 django.request ERROR    Internal Server Error: /login/auth0
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/backends/utils.py", line 50, in get_backend
+    return BACKENDSCACHE[name]
+KeyError: 'auth0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_django/utils.py", line 41, in wrapper
+    request.backend = load_backend(request.social_strategy,
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_django/utils.py", line 24, in load_backend
+    return strategy.get_backend(name, redirect_uri=redirect_uri)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/strategy.py", line 180, in get_backend
+    Backend = self.get_backend_class(name)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/strategy.py", line 176, in get_backend_class
+    return get_backend(self.get_backends(), name)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/backends/utils.py", line 53, in get_backend
+    load_backends(backends, force_load=True)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/backends/utils.py", line 35, in load_backends
+    backend = module_member(auth_backend)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/utils.py", line 59, in module_member
+    module = import_module(mod)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/utils.py", line 53, in import_module
+    __import__(name)
+ModuleNotFoundError: No module named 'auth0login'
+2021-11-21 09:01:49,986 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/Enterprise/settings.py changed, reloading.
+2021-11-21 09:01:49,987 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 09:01:50,360 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 09:01:50,360 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 09:01:50,360 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 09:01:50,360 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 09:01:50,360 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:01:50,501 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 09:01:59,129 django.request ERROR    Internal Server Error: /login/auth0
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_django/utils.py", line 46, in wrapper
+    return func(request, backend, *args, **kwargs)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_django/views.py", line 23, in auth
+    return do_auth(request.backend, redirect_name=REDIRECT_FIELD_NAME)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/actions.py", line 29, in do_auth
+    return backend.start()
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/backends/base.py", line 35, in start
+    return self.strategy.redirect(self.auth_url())
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/backends/oauth.py", line 332, in auth_url
+    return '{0}?{1}'.format(self.authorization_url(), params)
+  File "/Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/authentication/auth0backend.py", line 18, in authorization_url
+    return 'https://' + self.setting('DOMAIN') + '/authorize'
+TypeError: can only concatenate str (not "NoneType") to str
+2021-11-21 09:02:35,631 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/authentication/auth0backend.py changed, reloading.
+2021-11-21 09:02:35,635 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 09:02:36,383 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 09:02:36,383 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 09:02:36,383 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 09:02:36,383 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 09:02:36,383 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:02:36,635 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 09:02:49,699 django.request ERROR    Internal Server Error: /login/auth0
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_django/utils.py", line 46, in wrapper
+    return func(request, backend, *args, **kwargs)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_django/views.py", line 23, in auth
+    return do_auth(request.backend, redirect_name=REDIRECT_FIELD_NAME)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/actions.py", line 29, in do_auth
+    return backend.start()
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/backends/base.py", line 35, in start
+    return self.strategy.redirect(self.auth_url())
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/backends/oauth.py", line 332, in auth_url
+    return '{0}?{1}'.format(self.authorization_url(), params)
+  File "/Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/authentication/auth0backend.py", line 18, in authorization_url
+    return 'https://' + self.setting('DOMAIN') + '/authorize'
+TypeError: can only concatenate str (not "NoneType") to str
+2021-11-21 09:04:00,674 django.request ERROR    Internal Server Error: /login/auth0
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_django/utils.py", line 46, in wrapper
+    return func(request, backend, *args, **kwargs)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_django/views.py", line 23, in auth
+    return do_auth(request.backend, redirect_name=REDIRECT_FIELD_NAME)
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/actions.py", line 29, in do_auth
+    return backend.start()
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/backends/base.py", line 35, in start
+    return self.strategy.redirect(self.auth_url())
+  File "/opt/miniconda3/envs/enterprise_project/lib/python3.9/site-packages/social_core/backends/oauth.py", line 332, in auth_url
+    return '{0}?{1}'.format(self.authorization_url(), params)
+  File "/Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/authentication/auth0backend.py", line 18, in authorization_url
+    return 'https://' + self.setting('DOMAIN') + '/authorize'
+TypeError: can only concatenate str (not "NoneType") to str
+2021-11-21 09:04:58,377 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/authentication/views.py changed, reloading.
+2021-11-21 09:04:58,380 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 09:04:59,152 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 09:04:59,152 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 09:04:59,153 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 09:04:59,154 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 09:04:59,154 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:04:59,552 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 09:06:09,816 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/Enterprise/settings.py changed, reloading.
+2021-11-21 09:06:09,825 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 09:06:10,667 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 09:06:10,667 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 09:06:10,667 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 09:06:10,667 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 09:06:10,667 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:06:10,975 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 09:07:14,647 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/Enterprise/settings.py changed, reloading.
+2021-11-21 09:07:14,648 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 09:07:15,243 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 09:07:15,243 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 09:07:15,243 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 09:07:15,243 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 09:07:15,243 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:07:15,479 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 09:07:21,729 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): dev-kmut4dx9.us.auth0.com:443
+2021-11-21 09:07:22,143 urllib3.connectionpool DEBUG    https://dev-kmut4dx9.us.auth0.com:443 "POST /oauth/token HTTP/1.1" 200 None
+2021-11-21 09:07:58,684 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/authentication/views.py changed, reloading.
+2021-11-21 09:07:58,685 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 09:07:59,469 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 09:07:59,469 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 09:07:59,469 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 09:07:59,469 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 09:07:59,469 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:07:59,713 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 09:13:53,691 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/documents_api/views.py changed, reloading.
+2021-11-21 09:13:53,695 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 09:13:54,591 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 09:13:54,591 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 09:13:54,592 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 09:13:54,592 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 09:13:54,592 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:13:54,832 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 09:14:00,439 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/documents_api/views.py changed, reloading.
+2021-11-21 09:14:00,442 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 09:14:00,990 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 09:14:00,990 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 09:14:00,990 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 09:14:00,990 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 09:14:00,990 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:14:01,259 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 09:14:30,539 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-21 09:14:30,540 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 09:14:31,309 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 09:14:31,309 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 09:14:31,309 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 09:14:31,309 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 09:14:31,309 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:14:31,573 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 09:14:44,426 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-21 09:14:44,426 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 09:14:45,009 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 09:14:45,009 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 09:14:45,009 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 09:14:45,009 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 09:14:45,009 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:14:45,404 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 09:14:54,935 django.utils.autoreload INFO     /Users/aryanjadon/Desktop/Enterprise-Applications-Final/Backend/Enterprise/api_services/views.py changed, reloading.
+2021-11-21 09:14:54,935 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 09:14:55,502 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 09:14:55,502 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 09:14:55,502 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 09:14:55,502 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 09:14:55,502 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:14:55,645 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-21 09:15:28,052 MARKDOWN     DEBUG    Successfully imported extension module "markdown.extensions.toc".
+2021-11-21 09:15:28,053 MARKDOWN     DEBUG    Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2021-11-21 09:15:28,091 django.request WARNING  Method Not Allowed: /api/
+2021-11-21 09:15:40,771 MARKDOWN     DEBUG    Successfully imported extension module "markdown.extensions.toc".
+2021-11-21 09:15:40,771 MARKDOWN     DEBUG    Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2021-11-21 09:15:40,786 django.request WARNING  Method Not Allowed: /api/
+2021-11-21 09:15:42,643 MARKDOWN     DEBUG    Successfully imported extension module "markdown.extensions.toc".
+2021-11-21 09:15:42,644 MARKDOWN     DEBUG    Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2021-11-21 09:15:42,659 django.request WARNING  Method Not Allowed: /api/
+2021-11-21 09:15:44,340 MARKDOWN     DEBUG    Successfully imported extension module "markdown.extensions.toc".
+2021-11-21 09:15:44,341 MARKDOWN     DEBUG    Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2021-11-21 09:15:44,353 django.request WARNING  Method Not Allowed: /api/
+2021-11-21 09:15:46,345 MARKDOWN     DEBUG    Successfully imported extension module "markdown.extensions.toc".
+2021-11-21 09:15:46,345 MARKDOWN     DEBUG    Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2021-11-21 09:15:46,358 django.request WARNING  Method Not Allowed: /api/
+2021-11-21 09:15:51,355 MARKDOWN     DEBUG    Successfully imported extension module "markdown.extensions.toc".
+2021-11-21 09:15:51,356 MARKDOWN     DEBUG    Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2021-11-21 09:15:51,377 django.request WARNING  Method Not Allowed: /api/
+2021-11-21 09:15:58,940 MARKDOWN     DEBUG    Successfully imported extension module "markdown.extensions.toc".
+2021-11-21 09:15:58,941 MARKDOWN     DEBUG    Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2021-11-21 09:15:58,955 django.request WARNING  Method Not Allowed: /api/
+2021-11-21 01:17:10,471 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 01:17:10,473 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 01:17:10,474 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 01:17:10,474 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 01:17:10,474 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:17:11,025 asyncio      DEBUG    Using selector: KqueueSelector
+2021-11-21 01:17:18,484 django_heroku.core INFO     $DATABASE_URL not found, falling back to previous settings!
+2021-11-21 01:17:18,484 django_heroku.core INFO     Applying Heroku Staticfiles configuration to Django settings.
+2021-11-21 01:17:18,484 django_heroku.core INFO     Applying Heroku ALLOWED_HOSTS configuration to Django settings.
+2021-11-21 01:17:18,485 django_heroku.core INFO     Applying Heroku logging configuration to Django settings.
+2021-11-21 01:17:18,485 django_heroku.core INFO     Adding $SECRET_KEY to SECRET_KEY Django setting.
+2021-11-21 09:17:18,736 asyncio      DEBUG    Using selector: KqueueSelector
