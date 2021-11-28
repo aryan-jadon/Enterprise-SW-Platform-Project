@@ -8,6 +8,8 @@ import { EmployeePageComponent } from './employee-page/employee-page.component';
 import { ManagerPageComponent } from './manager-page/manager-page.component';
 import { AdminPageComponent } from './admin-page/admin-page.component';
 import { AboutPageComponent } from './about-page/about-page.component';
+import { OmegaPageComponent } from './omega-page/omega-page.component';
+import { ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -16,11 +18,13 @@ import { AboutPageComponent } from './about-page/about-page.component';
     EmployeePageComponent,
     ManagerPageComponent,
     AdminPageComponent,
-    AboutPageComponent
+    AboutPageComponent,
+    OmegaPageComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

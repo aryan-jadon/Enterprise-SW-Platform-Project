@@ -5,11 +5,13 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './manager-page.component.html',
   styleUrls: ['./manager-page.component.css']
 })
+
 export class ManagerPageComponent implements OnInit {
-
   constructor() { }
-
+  
   ngOnInit(): void {
   }
-
+  onSubmit() {
+  }
+ 
 }
