@@ -1,3 +1,4 @@
 /Backend/Enterprise/.env
 .idea
 __pycache__
+/Backend/Enterprise/config.YAML
